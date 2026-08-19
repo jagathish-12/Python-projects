@@ -1,4 +1,5 @@
-#Stores the 2 variables and concatenate them in a sentence
+# Band name Generator
+# Stores the 2 variables and concatenate them in a sentence
 
 print("Welcome to the Band Name Generator.")
 city_name = input("What's the name of the city you grew up in? \n")
